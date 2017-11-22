@@ -19,3 +19,7 @@ echo LSRPM:xxxH >/dev/ttyUSB0 //set motor RPM
   7) rosrun rviz rviz and set the frame id is LH_laser
   Then you will see the lidar on the rviz and enjoy it 
   Finished
+
+
+Mail:harrybot@aliyun.com
+Tel:86-13564525088

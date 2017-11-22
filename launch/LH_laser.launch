@@ -1,0 +1,7 @@
+ <launch>
+    <node pkg="LH_laser_driver" type="LH_laser_publisher" name="LH_laser" output="screen"/>
+    <param name="port" value="/dev/ttyUSB0" type="str"/>
+<param name="baud_rate" value="230400" type="int"/>
+<param name="frame_id" value="LH_laser" type="str"/>
+<node pkg="rviz" type="rviz" name="rviz"/>
+  </launch>

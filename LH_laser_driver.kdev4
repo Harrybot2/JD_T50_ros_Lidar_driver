@@ -1,0 +1,3 @@
+[Project]
+Manager=KDevCMakeManager
+Name=LH_laser_driver
